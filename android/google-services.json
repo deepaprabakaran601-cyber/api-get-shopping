@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020233441618",
+    "project_id": "quickshoping-9c71f",
+    "storage_bucket": "quickshoping-9c71f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020233441618:android:af7a60f82a6679b0319a8b",
+        "android_client_info": {
+          "package_name": "com.quickshoping.shoping_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2a6_Nyc4eRoRE8qLxnrJ-xaqTXoTtBzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
